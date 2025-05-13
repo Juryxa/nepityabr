@@ -2,7 +2,7 @@ import React, {useEffect, useState} from 'react';
 
 
 const CounterSlavyan = () => {
-  const targetDate = 1726952400;
+  const targetDate = 	1746991980;
   const [elapsedTime, setElapsedTime] = useState(0);
 
   useEffect(() => {
