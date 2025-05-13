@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nepityabr/static/css/main.0f203e4a.css",
-    "main.js": "/nepityabr/static/js/main.03632c43.js",
+    "main.js": "/nepityabr/static/js/main.3d210bd8.js",
     "static/media/7fonts.ru_DS-DIGI.TTF": "/nepityabr/static/media/7fonts.ru_DS-DIGI.0ef0e2249326c34137c8.TTF",
     "index.html": "/nepityabr/index.html",
     "main.0f203e4a.css.map": "/nepityabr/static/css/main.0f203e4a.css.map",
-    "main.03632c43.js.map": "/nepityabr/static/js/main.03632c43.js.map"
+    "main.3d210bd8.js.map": "/nepityabr/static/js/main.3d210bd8.js.map"
   },
   "entrypoints": [
     "static/css/main.0f203e4a.css",
-    "static/js/main.03632c43.js"
+    "static/js/main.3d210bd8.js"
   ]
 }
